@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>spring5webapp</artifactId>
-	<version>2.2.2</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>spring5webapp</name>
 	<description>My First SpringWEBApp</description>
 	<properties>
